@@ -1,2 +1,4 @@
-# dio-gh-py-algo
-DIO | Utilizando as Ferramentas do GitHub para Solucionar Algoritmos em Python
+# DIO | Utilizando as Ferramentas do GitHub para Solucionar Algoritmos em Python
+
+## Descrição do Desafio
+Este projeto tem como objetivo utilizar o GitHub Copilot para auxiliar na solução de algoritmos em Python, explorando como essa ferramenta de inteligência artificial pode acelerar o desenvolvimento, sugerir códigos eficientes e melhorar a produtividade no processo de programação.
